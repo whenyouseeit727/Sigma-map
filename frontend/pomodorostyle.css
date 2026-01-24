@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-image: url(bgpic/fnaf_bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.buttons {   /* This is a container that stores the buttons */
+  display: flex;
+  justify-content: center; 
+  gap: 10px;
+  margin-top: 150px;   /* to change the button high or lower */
+}
+.timer {   
+  display: flex;
+  justify-content: center; 
+  gap: 10px;
+  margin-top: 100px;   /* to change the button high or lower */
+}
+
+.buttons button {   /* this is where you customize the buttons */ 
+  background-color: transparent;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  text-align: center;
+  font-size: 20px;
+   border-radius: 12px;
+   border: 3px solid #000000;
+}
+
+.buttons button:hover {
+    background-color: black;
+    border-color: white;
+}
