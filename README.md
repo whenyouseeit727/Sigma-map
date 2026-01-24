@@ -9,3 +9,9 @@ Day 1 1/19/26
 
 Day 2  1/20/26
  - html shit
+
+
+Day 3  1/21/26
+ - html shit
+ - css
+
