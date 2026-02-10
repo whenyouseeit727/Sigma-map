@@ -23,6 +23,8 @@ body {
   margin-top: 100px;   /* to change the button high or lower */
 }
 
+
+
 .buttons button {   /* this is where you customize the buttons */ 
   background-color: transparent;
   color: white;
